@@ -1,0 +1,6 @@
+D:\NETCkratka\Statki\Statki\bin\Debug\Statki.exe.config
+D:\NETCkratka\Statki\Statki\bin\Debug\Statki.exe
+D:\NETCkratka\Statki\Statki\bin\Debug\Statki.pdb
+D:\NETCkratka\Statki\Statki\obj\Debug\Statki.csprojAssemblyReference.cache
+D:\NETCkratka\Statki\Statki\obj\Debug\Statki.exe
+D:\NETCkratka\Statki\Statki\obj\Debug\Statki.pdb
