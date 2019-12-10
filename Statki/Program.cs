@@ -8,7 +8,6 @@ namespace Statki
     {
         static void Main(string[] args)
         {
-            //test 2
             Plansza gracz = new Plansza();
             Plansza komputer = new Plansza();
             Plansza ukrytaGracz = new Plansza();
